@@ -1,14 +1,16 @@
-package com.ghjansen.bloom.server.hello;
+package com.ghjansen.bloom.example.hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class Application {
 
+    /*
     public static void main(String args[]){
         SpringApplication.run(Application.class, args);
     }
+    */
 
 
 }

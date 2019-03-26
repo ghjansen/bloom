@@ -1,4 +1,4 @@
-package com.ghjansen.bloom.server.hello;
+package com.ghjansen.bloom.example.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
